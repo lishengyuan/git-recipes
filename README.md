@@ -6,7 +6,7 @@
 
 ### 第1篇 果壳中的 Git
 
-- **第1章** [什么是 Git1](https://github.com/geeeeeeeeek/git-recipes/wiki/1.1-%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84-Git)
+- **第1章** [什么是 Git](https://github.com/geeeeeeeeek/git-recipes/wiki/1.1-%E6%9E%9C%E5%A3%B3%E4%B8%AD%E7%9A%84-Git)
 
 ### 第2篇 从零搭建本地代码仓库
 
